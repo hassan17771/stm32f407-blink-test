@@ -5,7 +5,7 @@ an external RC circuit are used.The RC circuit is utilized to debounce push butt
 
 
 ![image of an RC circuit, the R is 10k and the C is 1uF.](./assets/rc.png)
-
+<sub>RL is the impedace of pull-down GPIO port, estimately around 30-40k Ohms.</sub>
 ## functinality
 
 the circuit has two states: the hold state and the press state. 
