@@ -4,7 +4,7 @@ In this project, the stm32 timer, GPIO ports, and
 an external RC circuit are used.The RC circuit is utilized to debounce push button triggers.
 
 
-![image of an RC circuit, the R is 10k and the C is 1uF.] (./assets/rc.png)
+![image of an RC circuit, the R is 10k and the C is 1uF.](./assets/rc.png)
 
 ## functinality
 
