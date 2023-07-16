@@ -1,0 +1,1 @@
+# blink test project on stm32f407 discovery kit
